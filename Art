@@ -1,0 +1,14 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Art Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to My Art</h1>
+  <img src="assets/IMG_2145.jpg" alt="Escape">
+  <p>This is my painting “Escape,” inspired by Mondrian...</p>
+</body>
+</html> 
