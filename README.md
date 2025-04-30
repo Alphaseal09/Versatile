@@ -1,0 +1,1 @@
+Through painting, I turn experiences of challenge into moments of beauty, inviting viewers to find their own path between stillness and flight. In this way, my art becomes both mirror and map, charting the course of transformation and the shared drive toward something greater than ourselves.
